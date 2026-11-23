@@ -62,7 +62,3 @@ Reusable AWS modules, each with CI running `terraform fmt`, `validate`, and `ter
 - [terraform_s3_bucket_module](https://github.com/adityapidikiti/terraform_s3_bucket_module) — S3 buckets with secure defaults and optional lifecycle, CORS and logging
 - [terraform_sqs_queue_module](https://github.com/adityapidikiti/terraform_sqs_queue_module) — SQS queues with dead-letter redrive and optional encryption
 - [terraform_sns_topic_module](https://github.com/adityapidikiti/terraform_sns_topic_module) — SNS topics with subscriptions and optional KMS
-
----
-
-📫 [adityacloudengineer1@gmail.com](mailto:adityacloudengineer1@gmail.com)
