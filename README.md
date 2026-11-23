@@ -11,7 +11,6 @@
 
 ### 🚀 Featured Work
 
-- **AWS FinOps — $2M+ in annualized savings.** EC2 Attribute-Based Instance Selection, environment consolidation, gp2→gp3 standardization, and automated S3/ECR lifecycle policies.
 - **Observability modernization.** Migrated legacy monitoring agents to OpenTelemetry Collectors with unified routing to Prometheus, Grafana, and Splunk.
 - **Golden images and CI/CD acceleration.** CIS-hardened Amazon Linux 2023 AMIs built with Packer and Ansible; Jenkins Docker build images cut from 8 GB to 250 MB, cutting build times from 8 minutes to 2.
 - **Planet-scale geospatial infrastructure.** Full-planet (~1.65 TB) Nominatim PostgreSQL/PostGIS cluster on AWS EC2/EBS.
