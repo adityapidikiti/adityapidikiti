@@ -3,7 +3,7 @@
 **Senior Cloud Infrastructure & Site Reliability Engineer** — I build and run resilient, cost-optimized, observable AWS platforms.
 
 - 🔭 **Focus:** AWS platform reliability, Kubernetes (EKS) and ECS orchestration, OpenTelemetry observability pipelines, FinOps
-- 🛠️ **Core stack:** AWS (EKS, ECS/Fargate, EC2, VPC, Transit Gateway, IAM, Aurora, DynamoDB, S3, SQS, SNS, Lambda), Terraform, Kubernetes, Docker, Jenkins, Linux (AL2023)
+- 🛠️ **Core stack:** AWS (EKS, ECS/Fargate, EC2, VPC, Transit Gateway, IAM, Aurora, RDS, DynamoDB, S3, SQS, SNS, Lambda, Kinesis), Terraform, Kubernetes, Docker, Jenkins, Linux (AL2023)
 - 📊 **Observability:** OpenTelemetry, Prometheus, Grafana, Splunk, CloudWatch, SLO/SLI
 - 📍 **Location:** Toronto, Ontario, Canada
 
