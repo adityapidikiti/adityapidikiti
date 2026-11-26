@@ -59,9 +59,11 @@ Reusable AWS modules, each with CI running `terraform fmt`, `validate`, and `ter
 - [terraform_eks](https://github.com/adityapidikiti/terraform_eks) — EKS cluster with ALB ingress, CloudWatch logging, metrics server, Prometheus/Grafana and KEDA autoscaling
 - [terraform_ecs](https://github.com/adityapidikiti/terraform_ecs) — containerised app on ECS Fargate behind an ALB, with VPC, autoscaling and HTTPS
 - [terraform_aurora_module](https://github.com/adityapidikiti/terraform_aurora_module) — Aurora cluster with subnet and parameter groups
+- [terraform_rds_module](https://github.com/adityapidikiti/terraform_rds_module) — RDS instances for SQL Server, PostgreSQL, MySQL and MariaDB, with encryption, Performance Insights and prod guards
 - [terraform_dynamodb_module](https://github.com/adityapidikiti/terraform_dynamodb_module) — DynamoDB tables with GSIs/LSIs, autoscaling, PITR and encryption
 - [terraform_elasticache_module](https://github.com/adityapidikiti/terraform_elasticache_module) — ElastiCache replication groups, Redis or Valkey, single-node or cluster mode
 - [terraform_lambda_module](https://github.com/adityapidikiti/terraform_lambda_module) — Lambda functions from a zip package or container image
 - [terraform_s3_bucket_module](https://github.com/adityapidikiti/terraform_s3_bucket_module) — S3 buckets with secure defaults and optional lifecycle, CORS and logging
 - [terraform_sqs_queue_module](https://github.com/adityapidikiti/terraform_sqs_queue_module) — SQS queues with dead-letter redrive and optional encryption
 - [terraform_sns_topic_module](https://github.com/adityapidikiti/terraform_sns_topic_module) — SNS topics with subscriptions and optional KMS
+- [terraform_kinesis_module](https://github.com/adityapidikiti/terraform_kinesis_module) — Kinesis Data Streams in ON_DEMAND or PROVISIONED mode, with at-rest encryption and retention control
